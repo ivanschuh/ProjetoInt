@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+.footer{
+    font-family: 'Bebas Neue', cursive;
+    background-color: black;
+    position: relative;
+    padding: 100px;
+    color: white;
+    text-align: center;
+}

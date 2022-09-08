@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+.servicos {
+    background-color: black;
+    position: relative;
+    padding-bottom: 80px;
+}
+.sobre {
+    background-color: black;
+    position: relative;
+    padding-bottom: 80px;
+}
+.titulo {
+    font-family: 'Bebas Neue', cursive;
+    padding-top: 80px;
+    margin-left: 20%;
+    font-size: 50px;
+    color: goldenrod;
+}
+.descricao {
+    padding-top: 20px;
+    color: white;
+    padding-left: 20%;
+    padding-right: 20%;
+    text-align: justify;
+    font-size: 18px;
+}
+
+.item {
+    list-style-type: none;
+    padding-top: 20px;
+}
+
+.contato {
+    background-color: black;
+    position: relative;
+    padding-bottom: 80px;
+}

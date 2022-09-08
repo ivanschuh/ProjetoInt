@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+#body{
+    background-color: black;
+}
+
+#login {
+    font-family: 'Bebas Neue', cursive;
+    background-color: rgba(218, 218, 218, 0.171);
+    margin-top: 10%;
+    border-radius: 1rem;
+    padding-bottom:10px;
+    min-width: 45%;
+    min-height: 600px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.forms{
+    padding-left: 20%;
+    padding-right: 20%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.input {
+    background-color: rgb(233, 233, 233);
+    color: black;
+    display: block;
+    border: none;
+    padding: 12px;
+    border-radius: 1rem;
+    margin-bottom: 28px;
+    min-width: 380px;
+}
+
+.button {
+    font-size: 20px;
+    background-color: goldenrod;
+    border: none;
+    padding: 12px;
+    border-radius: 1rem;
+    min-width: 150px;
+}
+
+.button:hover{
+    background-color: rgba(218, 165, 32, 0.815);
+}
+
+.recsenha {
+    margin-top: 20px;
+    color: white;
+    font-size: 12px;
+}
+
+.recsenha:hover {
+    color: rgb(145, 145, 145);
+}
+
